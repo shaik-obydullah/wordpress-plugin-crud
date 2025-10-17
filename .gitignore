@@ -1,0 +1,7 @@
+# Ignore MySQL data and socket files
+db_data/
+*.sock
+
+# Docker volumes and environment files
+*.log
+.env
