@@ -33,7 +33,9 @@ A **WordPress plugin** providing a full **CRUD (Create, Read, Update, Delete)** 
 ---
 
 ## Screenshots
-(https://github.com/shaik-obydullah/wordpress-plugin-crud/blob/main/Book%20List.png)
+
+![Book List](https://github.com/shaik-obydullah/wordpress-plugin-crud/blob/main/Book%20List.png?raw=true)
+
 ---
 
 ## Installation
@@ -52,3 +54,4 @@ A **WordPress plugin** providing a full **CRUD (Create, Read, Update, Delete)** 
 ```bash
 
 git clone https://github.com/shaik-obydullah/wordpress-plugin-crud.git
+
