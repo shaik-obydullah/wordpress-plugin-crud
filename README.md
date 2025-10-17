@@ -33,15 +33,7 @@ A **WordPress plugin** providing a full **CRUD (Create, Read, Update, Delete)** 
 ---
 
 ## Screenshots
-
-> Replace these placeholders with real screenshots from your plugin.
-
-![CRUD List](docs/screenshots/crud-list.png)  
-*Plugin list view in WordPress admin.*
-
-![CRUD Edit](docs/screenshots/crud-edit.png)  
-*Edit record form.*
-
+(https://github.com/shaik-obydullah/wordpress-plugin-crud/blob/main/Book%20List.png)
 ---
 
 ## Installation
@@ -58,4 +50,5 @@ A **WordPress plugin** providing a full **CRUD (Create, Read, Update, Delete)** 
 1. Clone the repository:
 
 ```bash
+
 git clone https://github.com/shaik-obydullah/wordpress-plugin-crud.git
