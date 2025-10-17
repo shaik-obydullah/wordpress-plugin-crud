@@ -1,9 +1,6 @@
 # WordPress Plugin CRUD
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![PHP Version](https://img.shields.io/badge/PHP-8.4-blue)](https://www.php.net/)  
-[![WordPress Version](https://img.shields.io/badge/WordPress-6.x-green)](https://wordpress.org/)  
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![PHP Version](https://img.shields.io/badge/PHP-8.4-blue)](https://www.php.net/) [![WordPress Version](https://img.shields.io/badge/WordPress-6.x-green)](https://wordpress.org/) [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
 A **WordPress plugin** providing a full **CRUD (Create, Read, Update, Delete)** system for managing custom data within WordPress. Built with PHP and designed to integrate seamlessly into WordPress admin.
 
@@ -182,5 +179,6 @@ wordpress-plugin-crud/
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
 
